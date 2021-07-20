@@ -2,12 +2,25 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and Deep Learning.
 - 🌱 I’m currently learning C++ and React.js
 - 💞️ I’m looking to collaborate on autonomous and semi-autonomous robotics and vehicles.
-- 📫 How to reach me ...
+
 
 <!---
 eshippole/eshippole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Contact
+<a href="https://conceptofmind.substack.com/p/coming-soon">
+  <img
+    alt="Substack"
+    src="https://img.shields.io/badge/substack-FF6719?logo=substack&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://medium.com/@henryshippole">
+  <img
+    alt="Medium"
+    src="https://img.shields.io/badge/medium-000000?logo=medium&logoColor=white&style=for-the-badge"
+  />
+</a>
 <a href="https://www.youtube.com/channel/UC-C-uJREYgSqRlI2LK1C-xg">
   <img
     alt="Youtube"
