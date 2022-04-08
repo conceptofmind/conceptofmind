@@ -3,7 +3,7 @@ eshippole/eshippole is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://media.giphy.com/media/PmlcWhsrDxgJWfwYQo/giphy.gif">
+<img src="">
 
 ## Interests
 - Artificial Intelligence
