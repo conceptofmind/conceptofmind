@@ -3,7 +3,7 @@ eshippole/eshippole is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="">
+<img src="https://giphy.com/gifs/wearebottle-study-information-absorbing-H48YKEw3fXrcvIF2xE">
 
 ## Interests
 - Artificial Intelligence
