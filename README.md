@@ -58,9 +58,3 @@ Autonomous and semi-autonomous robotics and vehicles.
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-
-## Additional Information
-### IDE
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pycharm.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clion.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />
-### OS
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/windows.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" />
