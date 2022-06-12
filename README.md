@@ -8,13 +8,7 @@ You can click the Preview link to take a look at your changes.
 ![stats](https://github-readme-stats.vercel.app/api?username=conceptofmind&show_icons=true)
 
 ## Interests
-- Deep Learning
-
-## My Stack
-<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/numpy.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scikitlearn.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/scipy.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apachespark.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" /><img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
-
-## Collaborating On
-Transformers
+- Transformers
 
 ## Contact and Follow Me
 <a href="https://conceptofmind.substack.com/p/coming-soon">
