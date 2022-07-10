@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     src="https://img.shields.io/badge/medium-000000?logo=medium&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.youtube.com/channel/UC-C-uJREYgSqRlI2LK1C-xg">
+<a href="https://www.youtube.com/channel/">
   <img
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.instagram.com/conceptofmind/">
+<a href="https://www.instagram.com/eshippole/">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
