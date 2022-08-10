@@ -21,11 +21,7 @@ You can click the Preview link to take a look at your changes.
   />
 </a>
 <a href="https://www.youtube.com/channel/">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a>
+
 <a href="https://twitter.com/EnricoShippole">
   <img
     alt="Twitter"
