@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ![myfile](giphy.gif)
 
-![stats](https://github-readme-stats.vercel.app/api?username=conceptofmind&show_icons=true)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=conceptofmind&show_icons=true) -->
 
 ## Contact and Follow Me
 <a href="https://conceptofmind.substack.com/p/coming-soon">
