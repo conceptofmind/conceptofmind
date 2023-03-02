@@ -40,3 +40,6 @@ You can click the Preview link to take a look at your changes.
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+
+### The Ghost In The Machine
+https://antilogicalism.com/wp-content/uploads/2018/04/concept-of-mind.pdf
