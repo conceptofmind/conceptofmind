@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=conceptofmind&show_icons=true) -->
 
+https://conceptofmind.com/
+
 ## Contact
 <!-- <a href="https://conceptofmind.substack.com/p/coming-soon">
   <img
